@@ -1,0 +1,7 @@
+data/
+*.zip
+episode-*.txt
+outputs/
+outputs_offline_backup/
+kit/
+__pycache__/
